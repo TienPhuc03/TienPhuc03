@@ -1,13 +1,13 @@
 <div align="center">
 
-# Tien Phuc
+# Nguyen Tran Tien Phuc
 
 **Software Engineering Student · Backend & AI Applications**
 
 Ho Chi Minh City, Vietnam
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
+[![Email](https://img.shields.io/badge/Email-tnphucng14@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tnphucng14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-15836a398/)
 [![GitHub](https://img.shields.io/badge/GitHub-TienPhuc03-181717?style=flat&logo=github&logoColor=white)](https://github.com/TienPhuc03)
 
 </div>
@@ -16,39 +16,50 @@ Ho Chi Minh City, Vietnam
 
 ## 👋 About Me
 
-I'm a university student in Vietnam studying Information Technology. I enjoy building full-stack systems, analysing algorithms, and applying AI to real problems, especially for Vietnamese-language use cases. I often take on a coordination role in team projects: planning the architecture, splitting tasks, and keeping the group on schedule.
+I'm an Information Technology student at the University of Transport Ho Chi Minh City (UTH). I'm passionate about building full-stack systems, analysing algorithms, and applying AI to real-world problems, especially solutions that process the Vietnamese language. In team projects, I usually take on a coordinating role: planning the architecture, dividing tasks, and keeping the team on schedule.
 
-- 🔭 Currently building a **Vietnamese-language RAG chatbot** with a team of six
-- 🌱 Learning: RAG evaluation, vector search, system design
-- 🤝 Open to **internships / fresher positions** in backend or AI engineering
-- 🌐 Comfortable working in both Vietnamese and English
+- 🚀 **Just shipped:** A comprehensive RAG evaluation framework for Vietnamese university lecture materials
+- 🌱 **Currently exploring:** Advanced vector search, smart contract security (Solidity), system design, and mobile development
+- 🤝 **Looking for:** Internship / fresher opportunities in Backend, AI Engineering, or Mobile Development
+- 🌐 **Languages:** Fluent in both Vietnamese and English
 
 ---
 
 ## 🎓 Education
 
-**[University name]** — B.Sc. in Information Technology
-*[Start year] – [Expected graduation year]* · GPA: [x.x / 4.0]
-
-Relevant coursework: Algorithms Analysis & Design, Network Programming, Enterprise Java Development, Database Systems, English for IT
+**University of Transport Ho Chi Minh City (UTH)** — Bachelor of Information Technology
+*2024 – 2028*
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Leadership
 
-### Team Lead — Vietnamese RAG Chatbot *(Academic project, 6 members)*
-- Lead a six-member team; designed the architecture and assigned tasks across backend, frontend and evaluation
-- Stack: Spring Boot, PostgreSQL, Qdrant vector store, React
-- Designed a benchmark plan comparing chunking strategies and embedding models, scored with RAGAS metrics
+### Developer | UTH KEY FORCE (AGRI-FLOW)
+- Collaborated with teammates across multiple IT and logistics competitions
+- Designed the UX/UI and built the frontend for web applications, delivering a smooth and secure user experience
+- 🥇 **First Prize**, Humanitarian Logistics Hackathon 2026
+- 🏅 **Consolation Prize**, City-level Student Startup Competition 2026
 
-### Algorithms Researcher — Travelling Salesman Problem *(Academic project)*
-- Implemented and compared six algorithms: Brute Force, Branch & Bound, Held-Karp, Nearest Neighbor, 2-Opt and Genetic Algorithm
-- Benchmarked on random data and TSPLIB instances; debugged distance-calculation issues on non-Euclidean instances
+### Team Lead & Backend Developer | Vietnamese RAG Chatbot & Evaluation Framework
+- Successfully delivered a Retrieval-Augmented Generation (RAG) system and evaluation framework for university lectures, leading a team of 6
+- Designed a microservices architecture using Java Spring Boot, PostgreSQL, and the Qdrant vector database
+- Built a benchmark plan comparing chunking strategies and embedding models, scoring retrieval quality with RAGAS metrics
 
-### Presenter & Content Lead — English for IT *(Academic project)*
-- Researched and presented on IT department restructuring, using industry reports as evidence
+### Full-Stack Developer | CareerMate 
+- Developed an AI-powered job application platform featuring CV analysis, automated job matching, and admin tools for recruiters
+- Built REST APIs and data-processing pipelines using Python, FastAPI, pandas, and scikit-learn
 
-> 💡 *Add internships, part-time jobs, clubs or competitions here as you get them.*
+### Co-author & System Designer | Mekong Sight AI 
+- Contributed to the research and design of a decision-support platform for shrimp-rice rotation farming in the Mekong Delta
+- Co-authored the system architecture and the AI forecasting pipeline
+- 🏆 **Practical Idea Award**, Institute of Information Technology Scientific Research Competition
+
+### Algorithms Researcher | Travelling Salesman Problem
+- Implemented and compared six algorithms: Brute Force, Branch & Bound, Held-Karp, Nearest Neighbor, 2-Opt, and Genetic Algorithm
+- Benchmarked on random data and TSPLIB datasets; debugged distance-calculation issues on non-Euclidean instances
+
+### Smart Contract Researcher | NFT Certificate of Origin
+- Built a decentralized framework that turns each Certificate of Origin (C/O) into a unique digital asset (NFT) following the ERC-721 standard
 
 ---
 
@@ -69,18 +80,23 @@ Relevant coursework: Algorithms Analysis & Design, Network Programming, Enterpri
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **AI / Blockchain**
 
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=flat)
 ![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-orange?style=flat)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
 
@@ -97,38 +113,28 @@ Relevant coursework: Algorithms Analysis & Design, Network Programming, Enterpri
 
 | Project | Description | Tech |
 |---|---|---|
-| [**RAG_Chatbot_AI**](https://github.com/TienPhuc03/RAG_Chatbot_AI) | Vietnamese-language RAG chatbot. Team of 6, I lead. Includes a benchmark of chunking strategies and embedding models evaluated with RAGAS. | Java, Spring Boot, Qdrant, PostgreSQL, React |
-| [**AGRI-FLOW**](https://github.com/MPhuSE/agri-flow-platform) | Digital platform connecting farmers, traders and logistics to streamline agricultural supply chains in Vietnam. | JavaScript |
-| [**FreshFarm**](https://github.com/MPhuSE/FreshFarm) | [One-line description] | Laravel (Blade) |
-| [**NFT_CO**](https://github.com/TienPhuc03/NFT_CO) | [One-line description: what does the NFT project do?] | JavaScript, Solidity, Hardhat |
-| [**MELODYNET**](https://github.com/TienPhuc03/MELODYNET) | [One-line description] | Python |
-| [**UTH_CareerMate**](https://github.com/TienPhuc03/UTH_CareerMate) | [One-line description] | HTML |
+| [**RAG_Chatbot_AI**](https://github.com/TienPhuc03/RAG_Chatbot_AI) | A Vietnamese RAG chatbot for university lectures, built by a team of 6 under my leadership. Includes a benchmark of chunking strategies and embedding models, evaluated with RAGAS. | Java, Spring Boot, Qdrant, PostgreSQL, React |
+| [**AGRI-FLOW**](https://github.com/MPhuSE/agri-flow-platform) | AGRI-FLOW – Digital platform connecting farmers, traders, and logistics to streamline agricultural supply chains in Vietnam. | JavaScript |
+| [**UTH_CareerMate**](https://github.com/TienPhuc03/UTH_CareerMate) | An AI-powered job application platform with CV analysis, automated job matching, and admin tools for recruiters. | Python, FastAPI, pandas, scikit-learn, HTML |
+| [**NFT_CO**](https://github.com/TienPhuc03/NFT_CO) | A decentralized framework that turns each Certificate of Origin (C/O) into a unique digital asset (NFT) following the ERC-721 standard. | JavaScript, Solidity, Hardhat |
+| [**FreshFarm**](https://github.com/MPhuSE/FreshFarm) | An online marketplace for affordable farm produce, designed to minimize costs for buyers while maintaining product quality. | PHP, Laravel (Blade) |
+| [**MELODYNET**](https://github.com/TienPhuc03/MELODYNET) | A web-based music streaming app built on WebSocket for real-time communication (university course project). | Python, WebSocket |
 
 ---
 
 ## 🎯 Goals
 
-- **Short term:** land an internship or fresher role in backend / AI application development, and ship at least one project to production
-- **Mid term:** grow into a backend engineer who can design and evaluate LLM-powered systems (RAG, retrieval quality, evaluation pipelines)
-- **Long term:** build AI products that solve practical problems for Vietnamese users, in areas like agriculture, education and public services
+- **Short term:** Land an internship or fresher position in backend / AI application development, and ship at least one project to production
+- **Mid term:** Grow into a backend engineer who can design and evaluate LLM-integrated systems (RAG, retrieval quality, evaluation pipelines), and become proficient in additional languages for mobile projects
+- **Long term:** Build AI products that solve real problems for Vietnamese users across diverse fields, delivering a wide range of products on both web and mobile
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TienPhuc03&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TienPhuc03&layout=compact&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Contact
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-id](https://linkedin.com/in/your-id)
+- 📧 Email: tnphucng14@gmail.com
+- 💼 LinkedIn: [Phúc Nguyễn](https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-15836a398/)
 
 <div align="center">
 
